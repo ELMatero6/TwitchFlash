@@ -1,0 +1,6 @@
+{
+    "auth_token": "YOUR AUTH TOKEN HERE",
+    "user_id": "YOUR USER ID HERE",
+    "bulb_ip": "WizLight IP Address",
+    "sound_dir": "Directory for Sounds "
+}
