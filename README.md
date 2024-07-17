@@ -2,7 +2,7 @@
 
 This project integrates Twitch alerts with a WiZ smart bulb and plays random sounds from a specified directory. When a new follower or subscriber alert is received, the bulb flashes and a random sound is played.
 
-[![IMAGE ALT TEXT HERE]([])(https://www.youtube.com/watch?v=OVq0BBD3a8Q)
+![alt text](https://raw.githubusercontent.com/ELMatero6/TwitchFlash/main/image_2024-07-16_215322163.png)
 ## Prerequisites
 
 - Python 3.7 or higher
